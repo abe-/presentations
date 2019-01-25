@@ -1,5 +1,5 @@
 # PCD2019
-
+---
 <!-- the croopier -->
 ![](assets/img/the-croopier-portada-ultima.jpg)
 ---
@@ -45,13 +45,13 @@
 ![](http://abelardogfournier.org/files/images/image06.jpg)
 --- 
 <!-- Bandera foto -->
-![](http://abelardogfournier.org/cms/files/cache/800px-Victim_of_Congo_atrocities,_Congo,_ca._1890-1910_(IMP-CSCNWW33-OS10-19).800x600_0.jpg)
+![](assets/img/mechanical-gif-0.jpg)
 ---
 <!-- Bandera foto -->
-![](http://abelardogfournier.org/cms/files/cache/2016-02-25%2021.14.32.800x600_0.jpg)
+![](assets/img/mechanical-gif-1.jpg)
 ---
 <!-- Bandera foto -->
-![](http://abelardogfournier.org/cms/files/cache/2016-02-25%2021.11.07.800x600_0.jpg)
+![](assets/img/mechanical-gif-2.jpg)
 ---
 <!-- Bandera video -->
 ![Video](https://vimeo.com/161899015)
