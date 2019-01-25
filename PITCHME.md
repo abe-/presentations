@@ -2,7 +2,7 @@
 
 ---
 
-![Video](https://player.vimeo.com/video/60731302#310s)
+![Video](https://player.vimeo.com/video/60731302#t=310s)
 
 ---
 
