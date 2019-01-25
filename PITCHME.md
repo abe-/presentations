@@ -24,7 +24,7 @@
 ![Video](https://player.vimeo.com/video/22788075)
 ---
 <!-- skyline instalaciones -->
-![](assets/imgs/canal-plus-compo.JPG)
+![](assets/img/canal-plus-compo.JPG)
 ---
 <!-- # collscreen pantalla -->
 ![Video](https://player.vimeo.com/video/36047734)
@@ -63,7 +63,7 @@
 ![Video](https://player.vimeo.com/video/94442934#t=314s)
 ---
 <!-- Rock, paper, scissors -->
-![Video](https://vimeo.com/217894488?)
+![Video](https://player.vimeo.com/video/217894488?)
 ---
 <!-- Mawat foto -->
 ![](http://abelardogfournier.org/cms/files/cache/2016-02-25%2021.11.07.800x600_0.jpg)
