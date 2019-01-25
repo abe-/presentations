@@ -72,9 +72,11 @@
 ![](http://abelardogfournier.org/cms/files/cache/PB291134.800x600_0.jpg)
 ---
 <!-- Mawat video -->
-![](http://abelardogfournier.org/files/DSC_0324.ogv)
+![](http://abelardogfournier.org/files/DSC_0324.mp4)
 ---
-
+## Gracias!
+#### http://abelardogfournier.org
+#### @croopier
 
 
 <!-- pedercini -->
