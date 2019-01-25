@@ -66,7 +66,7 @@
 ![Video](https://player.vimeo.com/video/217894488?)
 ---
 <!-- Mawat foto -->
-![](assets/imgs/mawat-huesca.jpg)
+![](assets/img/mawat-huesca.jpg)
 ---
 <!-- Mawat foto -->
 ![](http://abelardogfournier.org/cms/files/cache/PB291134.800x600_0.jpg)
