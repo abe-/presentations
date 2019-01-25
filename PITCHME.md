@@ -54,7 +54,7 @@
 ![](assets/img/mechanical-gif-2.jpg)
 ---
 <!-- Bandera video -->
-![Video](https://vimeo.com/161899015)
+![Video](https://player.vimeo.com/video/161899015)
 ---
 <!-- Vividness explanation -->
 ![Video](https://player.vimeo.com/video/71408579#t=143s)
