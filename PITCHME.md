@@ -5,8 +5,9 @@
 ---
 <!-- the croopier video -->
 ![Video](https://player.vimeo.com/video/106478859)
----?image=http://abelardogfournier.org/cms/files/cache/canal-plus-xtra-skyline-visualizacion-television-croopier.800x600_0.jpg
+---
 <!-- # skyline imagen -->
+![](http://abelardogfournier.org/cms/files/cache/canal-plus-xtra-skyline-visualizacion-television-croopier.800x600_0.jpg)
 ---
 <!-- skyline rutas -->
 ![Video](https://player.vimeo.com/video/17113324)
