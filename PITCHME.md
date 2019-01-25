@@ -4,11 +4,11 @@
 <!-- # hello world -->
 ![Video](https://player.vimeo.com/video/60731302#t=310s)
 ---
-<!-- # collscreen pantalla -->
-![Video](https://player.vimeo.com/video/36047734)
+<!-- the croopier -->
+![](assets/img/the-croopier-portada-ultima.jpg)
 ---
-<!-- collscreen calle -->
-![Video](https://www.youtube.com/embed/C9pwBZHVDyI)
+<!-- the croopier video -->
+![Video](https://player.vimeo.com/video/106478859)
 ---?image=http://abelardogfournier.org/cms/files/cache/canal-plus-xtra-skyline-visualizacion-television-croopier.800x600_0.jpg
 <!-- # skyline imagen -->
 ---
@@ -26,6 +26,15 @@
 ---
 <!-- skyline completo -->
 ![Video](https://player.vimeo.com/video/22788075)
+---
+<!-- skyline instalaciones -->
+![](assets/imgs/canal-plus-compo.JPG)
+---
+<!-- # collscreen pantalla -->
+![Video](https://player.vimeo.com/video/36047734)
+---
+<!-- collscreen calle -->
+![Video](https://www.youtube.com/embed/C9pwBZHVDyI)
 ---
 <!-- tamal resultado -->
 ![](http://abelardogfournier.org/cms/files/cache/elmundotamal.800x600_0.jpg)
