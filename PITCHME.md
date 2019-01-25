@@ -37,8 +37,8 @@
 ![](http://abelardogfournier.org/files/images/image06.jpg)
 ---
 <!-- # pedercini -->
-#### Paolo Pedercini, GFC2014
 ![](assets/img/pedercini-obsolete.png)
+#### Paolo Pedercini, GFC2014
 ---
 
 
