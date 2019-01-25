@@ -19,7 +19,7 @@
 ![Video](https://player.vimeo.com/video/17115401)
 ---
 <!-- skyline quadtree -->
-![Video](https://player.vimeo.com/video/17116276#t=22s)
+![Video](https://player.vimeo.com/video/17116276#t=16s)
 ---
 <!-- # skyline lineas -->
 ![Video](https://player.vimeo.com/video/17113029)
@@ -27,6 +27,17 @@
 <!-- # skyline completo -->
 ![Video](https://player.vimeo.com/video/22788075)
 ---
-
+<!-- # tamal resultado -->
+![](http://abelardogfournier.org/cms/files/cache/elmundotamal.800x600_0.jpg)
+---
+<!-- # tamal esquema -->
+![](http://abelardogfournier.org/files/images/image05.jpg)
+---
+<!-- # tamal participantes -->
+![](http://abelardogfournier.org/files/images/image06.jpg)
+---
+<!-- # pedercini -->
+![](assets/img/pedercini-obsolete.png)
+---
 
 
