@@ -16,7 +16,7 @@
 
 ![Video](https://www.youtube.com/embed/C9pwBZHVDyI)
 
----?image=http://abelardogfournier.org/cms/files/cache/canal-plus-xtra-skyline-visualizacion-television-croopier.800x600_0.jpg)
+---?image=http://abelardogfournier.org/cms/files/cache/canal-plus-xtra-skyline-visualizacion-television-croopier.800x600_0.jpg
 
 
 ---
