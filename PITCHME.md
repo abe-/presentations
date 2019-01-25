@@ -19,7 +19,7 @@
 ![Video](https://player.vimeo.com/video/17115401)
 ---
 <!-- skyline quadtree -->
-![Video](https://player.vimeo.com/video/17116276)
+![Video](https://player.vimeo.com/video/17116276#t=22s)
 ---
 <!-- # skyline lineas -->
 ![Video](https://player.vimeo.com/video/17113029)
