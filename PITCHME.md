@@ -1,10 +1,10 @@
 # PCD2019
 
 ---
-[//]: # hello world
+[comment]: # hello world
 ![Video](https://player.vimeo.com/video/60731302#t=310s)
 ---
-[//]: # collscreen pantalla
+[comment]: # collscreen pantalla
 ![Video](https://player.vimeo.com/video/36047734)
 ---
 [//]: # collscreen calle
@@ -12,7 +12,7 @@
 ---?image=http://abelardogfournier.org/cms/files/cache/canal-plus-xtra-skyline-visualizacion-television-croopier.800x600_0.jpg
 [//]: # skyline imagen
 ---
-[//]: # skyline rutas
+[comment]: # skyline rutas
 ![Video](https://player.vimeo.com/video/17113324)
 ---
 [//]: # skyline edificios
