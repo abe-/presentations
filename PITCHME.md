@@ -21,24 +21,28 @@
 <!-- skyline quadtree -->
 ![Video](https://player.vimeo.com/video/17116276#t=16s)
 ---
-<!-- # skyline lineas -->
+<!-- skyline lineas -->
 ![Video](https://player.vimeo.com/video/17113029)
 ---
-<!-- # skyline completo -->
+<!-- skyline completo -->
 ![Video](https://player.vimeo.com/video/22788075)
 ---
-<!-- # tamal resultado -->
+<!-- tamal resultado -->
 ![](http://abelardogfournier.org/cms/files/cache/elmundotamal.800x600_0.jpg)
 ---
-<!-- # tamal esquema -->
+<!-- tamal esquema -->
 ![](http://abelardogfournier.org/files/images/image05.jpg)
 ---
-<!-- # tamal participantes -->
+<!-- tamal participantes -->
 ![](http://abelardogfournier.org/files/images/image06.jpg)
 ---
-<!-- # pedercini -->
+<!-- pedercini -->
 ![](assets/img/pedercini-obsolete.png)
 #### Paolo Pedercini, GFC2014
 ---
-
-
+<!-- Vividness explanation -->
+![Video](https://player.vimeo.com/video/71408579#t=143s)
+---
+<!-- Vividness -->
+![Video](https://player.vimeo.com/video/94442934#t=314s)
+---
