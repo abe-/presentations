@@ -43,7 +43,10 @@
 ---
 <!-- tamal participantes -->
 ![](http://abelardogfournier.org/files/images/image06.jpg)
---- 
+---
+<!-- Rock, paper, scissors -->
+![Video](https://player.vimeo.com/video/217894488?)
+---
 <!-- Bandera foto -->
 ![](assets/img/mechanical-gif-0.jpg)
 ---
@@ -61,9 +64,6 @@
 ---
 <!-- Vividness -->
 ![Video](https://player.vimeo.com/video/94442934#t=314s)
----
-<!-- Rock, paper, scissors -->
-![Video](https://player.vimeo.com/video/217894488?)
 ---
 <!-- Mawat foto -->
 ![](assets/img/mawat-huesca.jpg)
