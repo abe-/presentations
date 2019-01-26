@@ -26,12 +26,6 @@
 <!-- skyline instalaciones -->
 ![](assets/img/canal-plus-compo.JPG)
 ---
-<!-- # collscreen pantalla -->
-<!--![Video](https://player.vimeo.com/video/36047734)-->
----
-<!-- collscreen calle -->
-<!--![Video](https://www.youtube.com/embed/C9pwBZHVDyI)-->
----
 <!-- # hello world -->
 ![Video](https://player.vimeo.com/video/60731302#t=310s)
 ---
@@ -86,5 +80,11 @@
 <!--
 ![](assets/img/pedercini-obsolete.png)
 #### Paolo Pedercini, GFC2014
+---
+<!-- # collscreen pantalla 
+![Video](https://player.vimeo.com/video/36047734)
+---
+<!-- collscreen calle 
+![Video](https://www.youtube.com/embed/C9pwBZHVDyI)
 ---
 -->
